@@ -10,9 +10,9 @@
 
 #### a) Com suas palavras defina o que é um sistema de controle de versões(VCS)?
 
-Uma ferramenta criada para gerenciar versões de um projeto,permitindo que haja colaborações de outros desenvolvedores,
-mantendo vários fluxos de trabalho independentes uns dos outros, ajudando a acompamhar as mudanças feitas no codigo base
-com a segurança do registro quem fez alguma alteração.
+O GIT é uma ferramenta criada para gerenciar versões de um projeto,controle de versões,permitindo que haja colaborações de outros desenvolvedores,
+com repositorios remotos,mantendo vários fluxos de trabalho independentes uns dos outros, ajudando a acompamhar as mudanças feitas no codigo
+base com a segurança do registro de quem fez alguma alteração.
 Permitindo também a restauração do codigo removido ou modificado.
 
 #### b) Cite 5 vantagens em utilizar um VCS?
